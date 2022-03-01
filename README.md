@@ -1,2 +1,2 @@
-# env_ref
+# Environmental Refugees
 Environmental Refugees Project
